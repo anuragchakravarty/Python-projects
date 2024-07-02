@@ -16,6 +16,3 @@
 6. Add the option for multiple rounds, allowing the user to play again.
 7. Display the user's score, which can be based on the number of attempts taken or rounds won
 
-# 3. Rock, Paper, Scissors Game
-
-Welcome to the Rock, Paper, Scissors game repository! This repository contains a simple, interactive command-line implementation of the classic Rock, Paper, Scissors game using Python.
